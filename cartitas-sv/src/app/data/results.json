@@ -1,0 +1,1887 @@
+[
+  {
+    "id": null,
+    "name": "Animate Dead\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Animate Dead",
+        "id": "5a9e1794-e4fc-584c-aa83-43ab45226bbd",
+        "set": "Judge Gift Cards 2022",
+        "image": "https://api.scryfall.com/cards/f9e02314-bb21-48d0-b0c9-2824583b9c6f?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Arcane Signet\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Blade of Selves\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Bojuka Bog\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Bojuka Bog",
+        "id": "8e3eeaf2-2f6a-5c6a-aeab-96c27528ec16",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/21988208-9030-4959-8613-0cf52661282e?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Brainstorm\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Burnished Hart\r",
+    "stock": 27,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Burnished Hart",
+        "id": "04e77dcf-08f2-5e33-8949-2f1d3f64f0b0",
+        "set": "March of the Machine Commander",
+        "image": "https://api.scryfall.com/cards/81346d8b-8bdb-4c48-9889-865b23bd001e?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "38a0db20-fa87-5add-a134-d6b7ebf39ada",
+        "set": "The Brothers' War Retro Artifacts",
+        "image": "https://api.scryfall.com/cards/64f949db-07bd-4842-bc01-438158e640a8?format=image",
+        "stock": 14
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "49396d26-86fe-5189-8d1f-4ce48ab4150b",
+        "set": "Commander Legends: Battle for Baldur's Gate",
+        "image": "https://api.scryfall.com/cards/98c3f711-7191-4621-b36e-6c1e281216e2?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "532c9846-da35-53e2-961f-a6b55df26883",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/a9a97d2d-a5b7-4424-a703-c43ed887c888?format=image",
+        "stock": 5
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "77fd7ff8-4330-543c-9276-cf9208ccdbb2",
+        "set": "The Brothers' War Retro Artifacts",
+        "image": "https://api.scryfall.com/cards/e72bfcae-b791-4a89-a41f-d5335a13f325?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "b6fe7b5f-dbbb-5b71-b9ff-41d67d3ffefd",
+        "set": "Kaldheim Commander",
+        "image": "https://api.scryfall.com/cards/552e8660-4f52-4ce6-aeee-306676746695?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Burnished Hart",
+        "id": "e1e2a6e8-b540-50b3-82f6-ef75fae56769",
+        "set": "Commander 2019",
+        "image": "https://api.scryfall.com/cards/cc80010d-f02a-4bd2-a36a-d17abbe922a0?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Cackling Counterpart\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Canoptek Wraith\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Clone Legion\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Command Tower\r",
+    "stock": 14,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Command Tower",
+        "id": "2c57ec2f-0b3d-5dba-9a34-2d11e698cba2",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/14019383-0327-404b-ab4d-c65c3fa8c50d?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Command Tower",
+        "id": "fe3f9b13-076c-5e3c-8392-ca72b064590e",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/aed61bbb-83fd-452b-b940-c8eb1e1ebdac?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Command Tower",
+        "id": "2c57ec2f-0b3d-5dba-9a34-2d11e698cba2",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/14019383-0327-404b-ab4d-c65c3fa8c50d?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Command Tower",
+        "id": "fe3f9b13-076c-5e3c-8392-ca72b064590e",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/aed61bbb-83fd-452b-b940-c8eb1e1ebdac?format=image",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Counterspell\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Countersquall\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Crypt Ghast\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Dance of Many\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Dance of the Dead\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Dark Ritual\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Decree of Pain\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Diabolic Intent\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Diabolic Tutor\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Dimir Signet\r",
+    "stock": 4,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Dimir Signet",
+        "id": "15833f07-d346-5add-a929-a4fb419eb4a6",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/a6bffa5e-5fe2-4682-8de4-435c53bfb20b?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Dimir Signet",
+        "id": "15833f07-d346-5add-a929-a4fb419eb4a6",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/a6bffa5e-5fe2-4682-8de4-435c53bfb20b?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Displace\r",
+    "stock": 17,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Displace",
+        "id": "e29fbc87-b6ae-5ef2-8527-0caec7a31fa6",
+        "set": "Magic Origins",
+        "image": "https://api.scryfall.com/cards/ad6fef1f-6cc9-4e24-a1be-fc313774f28d?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Displace",
+        "id": "5778c32e-9afd-5931-bda5-3969f05fa7d3",
+        "set": "Adventures in the Forgotten Realms",
+        "image": "https://api.scryfall.com/cards/8646ae5c-e757-4d16-bf2a-d48770d620fa?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Displace",
+        "id": "9a8fd651-d7bd-5e0a-b91c-9dc8ccf81a4b",
+        "set": "Adventures in the Forgotten Realms",
+        "image": "https://api.scryfall.com/cards/95d5c36c-bcc8-459c-9f4b-b265ccdb1f06?format=image",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Drowned Catacomb\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Evil Twin\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Evil Twin",
+        "id": "5c6227bf-f0a9-568c-96cf-b6e4a6726e1a",
+        "set": "Innistrad",
+        "image": "https://api.scryfall.com/cards/3a53487a-c00b-42da-904c-f022a0c5b1ed?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Evil Twin",
+        "id": "5c6227bf-f0a9-568c-96cf-b6e4a6726e1a",
+        "set": "Innistrad",
+        "image": "https://api.scryfall.com/cards/3a53487a-c00b-42da-904c-f022a0c5b1ed?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Fated Infatuation\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Fated Infatuation",
+        "id": "897f3f55-71ba-50c4-9eeb-78e7cb4ede55",
+        "set": "Born of the Gods",
+        "image": "https://api.scryfall.com/cards/9e5ba99d-d95d-4a3b-b6b6-a5e2589d538e?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Feed the Swarm\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Feed the Swarm",
+        "id": "744cb1c5-a938-54a4-95e8-a855167aa7a0",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/840d02c6-3d9c-47cd-9307-978d03380d0f?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Final Parting\r",
+    "stock": 3,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Final Parting",
+        "id": "0fded734-6930-5105-92a3-f475a99896f0",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/94f24b7c-4952-4abc-aaba-22a529012468?format=image",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Ghostly Flicker\r",
+    "stock": 7,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Ghostly Flicker",
+        "id": "c4290205-6066-589d-92b5-d928ab185df5",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/dc143ba3-2a58-4980-9fa0-a05a9e9ed082?format=image",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Gigantoplasm\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Helm of the Host\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "High Tide\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Inherited Envelope\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Inherited Envelope",
+        "id": "680df12c-678d-5ee8-857f-99e923a363ed",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/b590d028-ea6a-4550-b5e2-ba328a81bbc0?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Invasion of Amonkhet\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Irenicus's Vile Duplication\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Island\r",
+    "stock": 188,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Island",
+        "id": "02dec623-655b-5a5a-9869-f97d19cbeb5c",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/eee75629-86b4-40b0-884a-22646ebf6e27?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "ab4ab447-e7d7-5847-9ea6-b970ef9bc917",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/bf35ed4f-fa34-4fd6-b7d8-3c4aeda1e9ea?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "ff920770-0574-5bb4-9055-34ba3fdc95c7",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/bdb63d4b-0bca-4b8e-bed0-0dc29ad0bac3?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "c19d92b6-5318-5a23-9501-5dd4fc934c60",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/75edde64-3589-424d-bfe1-714c4eaba019?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "9e7a56e1-3201-5346-b986-0e4c589a4816",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/c3b28bdb-e0d1-4d24-8199-8cd7ac12c30f?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "db2b0bb2-19ec-565f-992b-4380a22e25d4",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/8bafc217-3d83-4551-b2e3-3494ec14b2f9?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "4b32503f-a32b-54b3-a690-4cfd7877931f",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/34ec0f4f-e6f7-4a49-81a3-a1fbad102a9d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "58915ced-ae13-5ffa-9034-73c7ffeab8af",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/bbeca27a-6c5b-40b9-83a4-a3a2096ff6f8?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "5a126d7d-7224-5ffd-b748-127fe7ba6143",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/671516eb-b088-4a15-aec9-1781ca016e11?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "fd4ad7c0-5271-5da6-8b87-a9b6c8fc8ed7",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/eba0c7c5-ed63-41a5-93e1-a979a6f983b9?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Island",
+        "id": "dfc1cadb-f399-5273-a613-f2eda5a44e0e",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/8fee8302-39ca-43c3-b139-62e591559306?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "30f70fd7-525a-55d3-99a4-f5d6c9fbdf4d",
+        "set": "Innistrad: Midnight Hunt",
+        "image": "https://api.scryfall.com/cards/ed2cfa62-c972-4373-b405-a075697d009c?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "d2dba459-36dc-59d5-a520-199390521b8f",
+        "set": "March of the Machine",
+        "image": "https://api.scryfall.com/cards/988bfa94-0c83-4057-a0c7-0ad885b8919c?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Island",
+        "id": "2a6ab51e-424f-5487-85ec-943339e2dc2a",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/5c6322d4-52bf-471a-a5b2-8329ef4be39a?format=image",
+        "stock": 20
+      },
+      {
+        "name": "Island",
+        "id": "ed09057a-b976-56a7-a80b-b6fac64c0f93",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/ac97baa8-5e57-45b6-9c64-cb9ce4806294?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "08ca354f-d163-5aa7-80cb-6b8dab4893e8",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/2ef2c956-cf03-462c-8981-ae80edfc0c5a?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "3c120d84-891a-592a-a929-db42ace24012",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/8dd1b4d2-ccf0-498d-81e0-c9d755f5eb13?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "0e0fb850-9541-5bb0-8cd8-2010d5903ecf",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/8221d15c-c993-4345-a6bb-6a7d215e3273?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "e6d1f3b9-96f4-5f2d-9014-b154c0efa933",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/5aaba7cd-c1dc-49cf-8d63-8bb3594a6541?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "5c12baf8-10b5-5e4e-87fe-6859dd6ba5ba",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/bd4b4da4-83f6-4280-880b-b6033308f2a2?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "02dec623-655b-5a5a-9869-f97d19cbeb5c",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/eee75629-86b4-40b0-884a-22646ebf6e27?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "ab4ab447-e7d7-5847-9ea6-b970ef9bc917",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/bf35ed4f-fa34-4fd6-b7d8-3c4aeda1e9ea?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "ff920770-0574-5bb4-9055-34ba3fdc95c7",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/bdb63d4b-0bca-4b8e-bed0-0dc29ad0bac3?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "c19d92b6-5318-5a23-9501-5dd4fc934c60",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/75edde64-3589-424d-bfe1-714c4eaba019?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "9e7a56e1-3201-5346-b986-0e4c589a4816",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/c3b28bdb-e0d1-4d24-8199-8cd7ac12c30f?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "db2b0bb2-19ec-565f-992b-4380a22e25d4",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/8bafc217-3d83-4551-b2e3-3494ec14b2f9?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "4b32503f-a32b-54b3-a690-4cfd7877931f",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/34ec0f4f-e6f7-4a49-81a3-a1fbad102a9d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "58915ced-ae13-5ffa-9034-73c7ffeab8af",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/bbeca27a-6c5b-40b9-83a4-a3a2096ff6f8?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "5a126d7d-7224-5ffd-b748-127fe7ba6143",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/671516eb-b088-4a15-aec9-1781ca016e11?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "fd4ad7c0-5271-5da6-8b87-a9b6c8fc8ed7",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/eba0c7c5-ed63-41a5-93e1-a979a6f983b9?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Island",
+        "id": "dfc1cadb-f399-5273-a613-f2eda5a44e0e",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/8fee8302-39ca-43c3-b139-62e591559306?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "30f70fd7-525a-55d3-99a4-f5d6c9fbdf4d",
+        "set": "Innistrad: Midnight Hunt",
+        "image": "https://api.scryfall.com/cards/ed2cfa62-c972-4373-b405-a075697d009c?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Island",
+        "id": "d2dba459-36dc-59d5-a520-199390521b8f",
+        "set": "March of the Machine",
+        "image": "https://api.scryfall.com/cards/988bfa94-0c83-4057-a0c7-0ad885b8919c?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Island",
+        "id": "2a6ab51e-424f-5487-85ec-943339e2dc2a",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/5c6322d4-52bf-471a-a5b2-8329ef4be39a?format=image",
+        "stock": 20
+      },
+      {
+        "name": "Island",
+        "id": "ed09057a-b976-56a7-a80b-b6fac64c0f93",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/ac97baa8-5e57-45b6-9c64-cb9ce4806294?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Island",
+        "id": "08ca354f-d163-5aa7-80cb-6b8dab4893e8",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/2ef2c956-cf03-462c-8981-ae80edfc0c5a?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "3c120d84-891a-592a-a929-db42ace24012",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/8dd1b4d2-ccf0-498d-81e0-c9d755f5eb13?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "0e0fb850-9541-5bb0-8cd8-2010d5903ecf",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/8221d15c-c993-4345-a6bb-6a7d215e3273?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Island",
+        "id": "e6d1f3b9-96f4-5f2d-9014-b154c0efa933",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/5aaba7cd-c1dc-49cf-8d63-8bb3594a6541?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Island",
+        "id": "5c12baf8-10b5-5e4e-87fe-6859dd6ba5ba",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/bd4b4da4-83f6-4280-880b-b6033308f2a2?format=image",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Kindred Discovery\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mirror Image\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mirrorhall Mimic\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Morphic Pool\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mortuary Mire\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mystical Teachings\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mystical Tutor\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Nazgûl\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Pact of the Serpent\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Panharmonicon\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Path of Ancestry\r",
+    "stock": 12,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Path of Ancestry",
+        "id": "10ddeaf2-e40d-55c7-bbf0-017edc60c2d1",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/42522c12-874e-450f-bdea-901646eb2821?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Path of Ancestry",
+        "id": "1860f19a-2cc4-579e-aca3-f2d7b3c987ac",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/de0f23f6-3720-4d91-9484-7962e1c295c9?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Path of Ancestry",
+        "id": "efb33c58-bbea-5a36-a21a-d28efb821336",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/7f3d574a-72b5-43be-b4b5-87865bbc7b5c?format=image",
+        "stock": 6
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Phantasmal Image\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Pirated Copy\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Ponder\r",
+    "stock": 22,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Ponder",
+        "id": "0d94ffc2-490a-5e34-a121-f715537afecb",
+        "set": "Magic Origins",
+        "image": "https://api.scryfall.com/cards/7c60473d-5065-4e63-bfc2-a041a8ca48ed?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Ponder",
+        "id": "684d6a4e-8f07-53cc-97e9-034d7480cc1f",
+        "set": "Magic 2012",
+        "image": "https://api.scryfall.com/cards/81c908ee-e70a-4406-a32d-ab5ab17e67b1?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Ponder",
+        "id": "7e5246f0-05e2-589e-a5cb-1eb0330efed7",
+        "set": "Modern Horizons",
+        "image": "https://api.scryfall.com/cards/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01?format=image",
+        "stock": 7
+      },
+      {
+        "name": "Ponder",
+        "id": "0d94ffc2-490a-5e34-a121-f715537afecb",
+        "set": "Magic Origins",
+        "image": "https://api.scryfall.com/cards/7c60473d-5065-4e63-bfc2-a041a8ca48ed?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Ponder",
+        "id": "684d6a4e-8f07-53cc-97e9-034d7480cc1f",
+        "set": "Magic 2012",
+        "image": "https://api.scryfall.com/cards/81c908ee-e70a-4406-a32d-ab5ab17e67b1?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Ponder",
+        "id": "7e5246f0-05e2-589e-a5cb-1eb0330efed7",
+        "set": "Modern Horizons",
+        "image": "https://api.scryfall.com/cards/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01?format=image",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Port of Karfell\r",
+    "stock": 6,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Port of Karfell",
+        "id": "ab6f2438-1dad-5c71-8ca6-314adc02aa2c",
+        "set": "Kaldheim",
+        "image": "https://api.scryfall.com/cards/bb9465a6-d009-4ecd-9fd1-d046547de902?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Port of Karfell",
+        "id": "f926a337-17fe-52ea-be1f-52bb926127ed",
+        "set": "Commander Legends: Battle for Baldur's Gate",
+        "image": "https://api.scryfall.com/cards/62711f58-c52e-4493-b641-a77352bd4ff8?format=image",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Preordain\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Quasiduplicate\r",
+    "stock": 6,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Quasiduplicate",
+        "id": "946370fe-5ec2-54db-8fcd-9fc2f8d3d489",
+        "set": "Guilds of Ravnica",
+        "image": "https://api.scryfall.com/cards/f069646c-fae2-40bd-92bc-35459a84d847?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Quasiduplicate",
+        "id": "946370fe-5ec2-54db-8fcd-9fc2f8d3d489",
+        "set": "Guilds of Ravnica",
+        "image": "https://api.scryfall.com/cards/f069646c-fae2-40bd-92bc-35459a84d847?format=image",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Razaketh's Rite\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Read the Bones\r",
+    "stock": 6,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Read the Bones",
+        "id": "4fc3ff3c-094f-5fa6-a650-272589db59c4",
+        "set": "Magic Origins",
+        "image": "https://api.scryfall.com/cards/0cc51b90-7f1e-4e20-bc36-e3a198bc71bf?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Read the Bones",
+        "id": "df475c83-e44d-56b9-97f2-b073e6d3ff96",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/d6c66076-fb85-4a5e-8cd0-d103834b3cd1?format=image",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Ringwraiths\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Rite of Replication\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Saheeli's Artistry\r",
+    "stock": 36,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Saheeli's Artistry",
+        "id": "5e18854f-9cca-5bd9-9b08-064bff3e3add",
+        "set": "Kaladesh Promos",
+        "image": "https://api.scryfall.com/cards/422e3475-551f-405e-9467-5d244ce698e7?format=image",
+        "stock": 33
+      },
+      {
+        "name": "Saheeli's Artistry",
+        "id": "b38939e8-00a3-5502-9df5-e497ef15efb0",
+        "set": "Kaladesh",
+        "image": "https://api.scryfall.com/cards/42237c1d-5579-4c15-b97b-bcaaaf0b1ab2?format=image",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sakashima's Student\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "See Double\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Shipwreck Marsh\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Sol Ring\r",
+    "stock": 14,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Sol Ring",
+        "id": "16dfc433-7738-56b5-b696-906d3c453da0",
+        "set": "Commander 2020",
+        "image": "https://api.scryfall.com/cards/286bea73-8ad8-4423-8a7c-8497420fdb54?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Sol Ring",
+        "id": "19f6217c-26de-5675-a6f1-91e4c3f8b61b",
+        "set": "New Capenna Commander",
+        "image": "https://api.scryfall.com/cards/e1187999-521d-4ed0-8673-6eb8f3c58bb8?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Sol Ring",
+        "id": "4cf91815-f1b4-5cc8-8c56-c37bfec22356",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/16fbbd8d-bb18-4a8b-95a4-30ad6d548f72?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Sol Ring",
+        "id": "16dfc433-7738-56b5-b696-906d3c453da0",
+        "set": "Commander 2020",
+        "image": "https://api.scryfall.com/cards/286bea73-8ad8-4423-8a7c-8497420fdb54?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Sol Ring",
+        "id": "19f6217c-26de-5675-a6f1-91e4c3f8b61b",
+        "set": "New Capenna Commander",
+        "image": "https://api.scryfall.com/cards/e1187999-521d-4ed0-8673-6eb8f3c58bb8?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Sol Ring",
+        "id": "4cf91815-f1b4-5cc8-8c56-c37bfec22356",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/16fbbd8d-bb18-4a8b-95a4-30ad6d548f72?format=image",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Storm of Saruman\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Street Wraith\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Swamp\r",
+    "stock": 84,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Swamp",
+        "id": "421795b1-1c5c-51ce-a80a-de18583ce15b",
+        "set": "Dominaria Remastered",
+        "image": "https://api.scryfall.com/cards/88b4cb6a-ac4f-48ac-8c94-ba2b8e6b32a8?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swamp",
+        "id": "2cc4ac32-bfe6-5f9c-90a1-e789ff88811a",
+        "set": "Time Spiral Timeshifted",
+        "image": "https://api.scryfall.com/cards/4c56d4b5-08fb-4547-91e2-6e5f8fae408d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swamp",
+        "id": "0e6499ee-81e4-5c17-89fa-52202a9f461c",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/490452a3-22fb-4c75-9bf2-5cd6d6719446?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Swamp",
+        "id": "eea131a5-5f7d-5129-abaf-18d5d1b99fbd",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/7c71891b-9980-4b71-8301-e92288d33235?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Swamp",
+        "id": "9d8d4d04-3442-5608-822a-1b483a838d92",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/5a846f00-ccb9-4ee2-8358-7c7722258601?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Swamp",
+        "id": "fd2c888e-948a-5e66-b00b-5038192658b9",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/00daa026-aba3-421e-9eaa-aa5649b36eb2?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swamp",
+        "id": "22d9a3af-9586-5a7b-ac8a-8f445666d5fa",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/2a0fba6e-54d2-498c-83bc-41024307e608?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swamp",
+        "id": "dd5b7377-ab8d-525a-9ba1-905e7557340f",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/d86cd8fb-4ba7-4311-b0f3-b06fa112eda5?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swamp",
+        "id": "17efcc65-d71d-5928-8e8d-84a17c792204",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/9b5f68bc-1842-4efd-b85a-d897cfd63bde?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Swamp",
+        "id": "515d91ec-654c-5d4f-8316-e28c6b260418",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/d412d727-4fe8-4c21-a2cb-609395935dd8?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Swamp",
+        "id": "8a72c48e-d746-54d9-8389-ee50c35bace7",
+        "set": "March of the Machine",
+        "image": "https://api.scryfall.com/cards/888cdb76-d365-41df-8b6a-378ac58ca8b2?format=image",
+        "stock": 7
+      },
+      {
+        "name": "Swamp",
+        "id": "7194b0ea-d862-564d-b459-7c48500cf781",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/736a0484-e091-4178-92c5-c517b0e92f3d?format=image",
+        "stock": 20
+      },
+      {
+        "name": "Swamp",
+        "id": "58ba82cb-f820-5bc3-b18b-11a85dcb2a44",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/b0175a2a-db46-4d25-ab8e-feca7e565b8d?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swamp",
+        "id": "bbdc0fde-ad25-502e-b561-bda44c83992b",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/0b8515d2-e8a4-45ab-b361-88eb4ec959bd?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Swamp",
+        "id": "6aaf0f1d-8969-578f-a0ae-8ccdb269fc1f",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/5f917d8d-7037-4f11-91f6-1ef96b3541bb?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Swamp",
+        "id": "fb9c240c-b962-529c-b028-c10793caae98",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/b4569823-af23-4eea-acc9-2a2c62bce3b0?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swamp",
+        "id": "7661719d-f392-5ff9-94d6-ae1783c0522f",
+        "set": "Theros Beyond Death",
+        "image": "https://api.scryfall.com/cards/02cb5cfd-018e-4c5e-bef1-166262aa5f1d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swamp",
+        "id": "bff6310e-be44-5140-984f-5b296851fbdf",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/ee68f2cb-851b-4196-ac58-844d72628e6a?format=image",
+        "stock": 5
+      },
+      {
+        "name": "Swamp",
+        "id": "752304e1-c429-5e37-b7d0-961c6061f03e",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/1c90f777-2f98-4010-80a3-5fe395747e5f?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swamp",
+        "id": "dac84a33-a870-5c5c-acea-d9d4658e7a83",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/d0a801ba-ebf7-4b9e-98c2-db50448845b7?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Talisman of Dominance\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Talisman of Dominance",
+        "id": "bfa37dba-bc73-58d4-82e9-d164b2ca7083",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/5c4f9134-e3be-4520-a53e-2cf572a5758f?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Unearth\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Vesuvan Duplimancy\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Wash Out\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Wash Out",
+        "id": "8b44ffe2-ec1a-5ff1-a6a7-e06e775d5463",
+        "set": "Double Masters 2022",
+        "image": "https://api.scryfall.com/cards/dc468f97-08f7-4103-898f-b14fa61b99bc?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Witch-king of Angmar\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Archmage Emeritus\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Archmage Emeritus",
+        "id": "15001167-a3e4-5ca7-a844-f6684641ad1f",
+        "set": "The List",
+        "image": "https://api.scryfall.com/cards/459b79e0-236a-4ba8-a44c-7ac03987373d?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Body Double\r",
+    "stock": 5,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Body Double",
+        "id": "87368c4a-3889-5b3f-b362-fcdd179370d7",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/6d434b49-c3e8-4b4d-b573-c144ba78e98b?format=image",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Changeling Outcast\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Dimir Doppelganger\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Gandalf, Friend of the Shire\r",
+    "stock": 15,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Gandalf, Friend of the Shire",
+        "id": "404aad16-523a-54a7-baff-fb7f56e667ee",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/eae80537-f355-4aa3-8952-b08f3d1a1e41?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Gandalf, Friend of the Shire",
+        "id": "7e1ba2ce-076e-5859-ae7b-00e7749ac45f",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/cc9cfcc7-be64-4871-8d52-851e43fe3305?format=image",
+        "stock": 9
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Gríma, Saruman's Footman\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Lier, Disciple of the Drowned\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Sakashima of a Thousand Faces\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Sakashima the Impostor\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Spark Double\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Spark Double",
+        "id": "27dc6282-ecaf-5365-9f27-fefe0b93b4d7",
+        "set": "Heads I Win, Tails You Lose",
+        "image": "https://api.scryfall.com/cards/0b649145-426f-4576-a71c-6ee5d3981243?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Stunt Double\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Idol of Oblivion\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Isochron Scepter\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Lithoform Engine\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Mimic Vat\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Mimic Vat",
+        "id": "09d82b86-d60b-5efe-a4d0-d4c157314185",
+        "set": "Scars of Mirrodin",
+        "image": "https://api.scryfall.com/cards/736fff86-2417-4a77-b8eb-be2d1d142a9f?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Soul Foundry\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Soul Foundry",
+        "id": "e2429895-beca-5a8f-bc99-2df107558ada",
+        "set": "Mirrodin",
+        "image": "https://api.scryfall.com/cards/11b4983a-2a95-4322-a315-27b4bd430d39?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Instant (13)\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Cabal Ritual\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Cast Down\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Consider\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Consider",
+        "id": "715f59ea-2613-5e11-b4b8-f2e911818ef3",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/a8b4ab5e-aa83-448e-94b3-a4a643968804?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Doom Blade\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Doom Blade",
+        "id": "22cf21cb-55ab-5d19-8729-691b02055ff7",
+        "set": "Magic 2014",
+        "image": "https://api.scryfall.com/cards/75d96a37-bdbe-46ae-926f-8742699a0b20?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Go for the Throat\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Heartless Act\r",
+    "stock": 3,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Heartless Act",
+        "id": "45fd1ad0-0fc6-5f17-8212-74bb15f2a645",
+        "set": "Ikoria: Lair of Behemoths",
+        "image": "https://api.scryfall.com/cards/928b0234-fc62-4ab8-b257-3fddcc52376b?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Heartless Act",
+        "id": "dad47f02-0cda-5034-97a2-a6ebde9b5c63",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/a11dea2a-fe20-4e1b-9e1e-8759e0950f0a?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Opt\r",
+    "stock": 61,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Opt",
+        "id": "8054f3d1-ae77-55ed-a0cd-7937b0deeaca",
+        "set": "Dominaria Remastered",
+        "image": "https://api.scryfall.com/cards/875b7d0b-8354-41a0-9a53-8bc19ffdc016?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Opt",
+        "id": "c00e8893-5637-5fad-9a4b-1cb6b533b502",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/015e9da6-c704-4b00-b717-8c07ba2b2ff7?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Opt",
+        "id": "3bb348f6-c64a-5540-a052-40b799c0301b",
+        "set": "Throne of Eldraine",
+        "image": "https://api.scryfall.com/cards/c3669391-8f64-4904-b432-0f0582f30449?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Opt",
+        "id": "ffda1ffd-b843-5c2b-896b-ed28d1fd6205",
+        "set": "Core Set 2021",
+        "image": "https://api.scryfall.com/cards/323db259-d35e-467d-9a46-4adcb2fc107c?format=image",
+        "stock": 22
+      },
+      {
+        "name": "Opt",
+        "id": "dc0ae0b0-0184-5012-be34-6bbba1408b29",
+        "set": "Mirrodin",
+        "image": "https://api.scryfall.com/cards/969ebd20-de69-44ba-a0c2-9e2a89480370?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Opt",
+        "id": "4b7ee21b-ccb2-5590-98d7-146bbe0ba10c",
+        "set": "Tenth Edition",
+        "image": "https://api.scryfall.com/cards/6acf7453-1229-4758-bb17-8afc7dffa9a0?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Opt",
+        "id": "9de33061-de2f-58ea-a3f7-15c72ad1fcac",
+        "set": "The Brothers' War Retro Artifacts",
+        "image": "https://api.scryfall.com/cards/1f6fa35a-fd81-4fa5-aac6-c397db53e5d1?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Opt",
+        "id": "f1f15f6b-494d-5f74-83ba-939d0da8397f",
+        "set": "Darksteel",
+        "image": "https://api.scryfall.com/cards/50e945b0-e919-41bb-9bc5-f71ad531e8f1?format=image",
+        "stock": 5
+      },
+      {
+        "name": "Opt",
+        "id": "fd8a3125-d584-5d26-9aea-c257e971a938",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Opt",
+        "id": "9130bfbc-ce82-5bb0-bb01-b8d324281643",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/d90175ae-4109-4845-b3ff-1531fb67a0e1?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Opt",
+        "id": "52ac19cc-f469-59cc-bac2-21a416227986",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/61017325-cec0-46ac-aa32-5855e5904888?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Opt",
+        "id": "b187f3ce-a666-54b8-859f-66be5cd7a0b8",
+        "set": "Mirrodin Besieged",
+        "image": "https://api.scryfall.com/cards/644ab412-0603-447d-b8ef-dfd79f78e2a5?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Opt",
+        "id": "fd2f1580-d619-5078-b824-ac21e01acd7e",
+        "set": "Mirrodin Besieged Promos",
+        "image": "https://api.scryfall.com/cards/f1abeca7-0a9c-49ae-9042-9899829e74a3?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Opt",
+        "id": "0aa26dee-74d7-504a-a080-7af3dce0ada1",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/7577b5c7-91ed-4201-bdfd-0919142124eb?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Reality Shift\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Reality Shift",
+        "id": "dac1d349-44a3-5e19-8c2b-802fe25ccf01",
+        "set": "Wilds of Eldraine Commander",
+        "image": "https://api.scryfall.com/cards/fb3ee973-47a6-4143-88c3-a866931bf185?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Sauron's Ransom\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Songs of the Damned\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Call of the Ring\r",
+    "stock": 2,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Call of the Ring",
+        "id": "917d80bd-4a05-5a96-98af-1e90392095cd",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/a92a2c5a-e450-494a-b23b-7ac0a6c50535?format=image",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Extravagant Replication\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Followed Footsteps\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Birthday Escape\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Bloodchief's Thirst\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Claim the Precious\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Demonic Tutor\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Raise the Palisade\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Ringsight\r",
+    "stock": 0,
+    "isStock": false,
+    "variants": []
+  },
+  {
+    "id": null,
+    "name": "Zndrsplt's Judgment\r",
+    "stock": 1,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Zndrsplt's Judgment",
+        "id": "0de5b519-f235-50cb-9484-45a879ea246d",
+        "set": "New Capenna Commander",
+        "image": "https://api.scryfall.com/cards/aa97df52-1ae7-4cfe-842a-1b13deef00ae?format=image",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": "Swam",
+    "stock": 84,
+    "isStock": true,
+    "variants": [
+      {
+        "name": "Swam",
+        "id": "421795b1-1c5c-51ce-a80a-de18583ce15b",
+        "set": "Dominaria Remastered",
+        "image": "https://api.scryfall.com/cards/88b4cb6a-ac4f-48ac-8c94-ba2b8e6b32a8?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swam",
+        "id": "2cc4ac32-bfe6-5f9c-90a1-e789ff88811a",
+        "set": "Time Spiral Timeshifted",
+        "image": "https://api.scryfall.com/cards/4c56d4b5-08fb-4547-91e2-6e5f8fae408d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swam",
+        "id": "0e6499ee-81e4-5c17-89fa-52202a9f461c",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/490452a3-22fb-4c75-9bf2-5cd6d6719446?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Swam",
+        "id": "eea131a5-5f7d-5129-abaf-18d5d1b99fbd",
+        "set": "Commander Masters",
+        "image": "https://api.scryfall.com/cards/7c71891b-9980-4b71-8301-e92288d33235?format=image",
+        "stock": 6
+      },
+      {
+        "name": "Swam",
+        "id": "9d8d4d04-3442-5608-822a-1b483a838d92",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/5a846f00-ccb9-4ee2-8358-7c7722258601?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Swam",
+        "id": "fd2c888e-948a-5e66-b00b-5038192658b9",
+        "set": "Dominaria United",
+        "image": "https://api.scryfall.com/cards/00daa026-aba3-421e-9eaa-aa5649b36eb2?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swam",
+        "id": "22d9a3af-9586-5a7b-ac8a-8f445666d5fa",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/2a0fba6e-54d2-498c-83bc-41024307e608?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swam",
+        "id": "dd5b7377-ab8d-525a-9ba1-905e7557340f",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/d86cd8fb-4ba7-4311-b0f3-b06fa112eda5?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swam",
+        "id": "17efcc65-d71d-5928-8e8d-84a17c792204",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/9b5f68bc-1842-4efd-b85a-d897cfd63bde?format=image",
+        "stock": 8
+      },
+      {
+        "name": "Swam",
+        "id": "515d91ec-654c-5d4f-8316-e28c6b260418",
+        "set": "The Lord of the Rings: Tales of Middle-earth",
+        "image": "https://api.scryfall.com/cards/d412d727-4fe8-4c21-a2cb-609395935dd8?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Swam",
+        "id": "8a72c48e-d746-54d9-8389-ee50c35bace7",
+        "set": "March of the Machine",
+        "image": "https://api.scryfall.com/cards/888cdb76-d365-41df-8b6a-378ac58ca8b2?format=image",
+        "stock": 7
+      },
+      {
+        "name": "Swam",
+        "id": "7194b0ea-d862-564d-b459-7c48500cf781",
+        "set": "Phyrexia: All Will Be One",
+        "image": "https://api.scryfall.com/cards/736a0484-e091-4178-92c5-c517b0e92f3d?format=image",
+        "stock": 20
+      },
+      {
+        "name": "Swam",
+        "id": "58ba82cb-f820-5bc3-b18b-11a85dcb2a44",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/b0175a2a-db46-4d25-ab8e-feca7e565b8d?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swam",
+        "id": "bbdc0fde-ad25-502e-b561-bda44c83992b",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/0b8515d2-e8a4-45ab-b361-88eb4ec959bd?format=image",
+        "stock": 4
+      },
+      {
+        "name": "Swam",
+        "id": "6aaf0f1d-8969-578f-a0ae-8ccdb269fc1f",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/5f917d8d-7037-4f11-91f6-1ef96b3541bb?format=image",
+        "stock": 2
+      },
+      {
+        "name": "Swam",
+        "id": "fb9c240c-b962-529c-b028-c10793caae98",
+        "set": "Streets of New Capenna",
+        "image": "https://api.scryfall.com/cards/b4569823-af23-4eea-acc9-2a2c62bce3b0?format=image",
+        "stock": 3
+      },
+      {
+        "name": "Swam",
+        "id": "7661719d-f392-5ff9-94d6-ae1783c0522f",
+        "set": "Theros Beyond Death",
+        "image": "https://api.scryfall.com/cards/02cb5cfd-018e-4c5e-bef1-166262aa5f1d?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swam",
+        "id": "bff6310e-be44-5140-984f-5b296851fbdf",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/ee68f2cb-851b-4196-ac58-844d72628e6a?format=image",
+        "stock": 5
+      },
+      {
+        "name": "Swam",
+        "id": "752304e1-c429-5e37-b7d0-961c6061f03e",
+        "set": "The Brothers' War",
+        "image": "https://api.scryfall.com/cards/1c90f777-2f98-4010-80a3-5fe395747e5f?format=image",
+        "stock": 1
+      },
+      {
+        "name": "Swam",
+        "id": "dac84a33-a870-5c5c-acea-d9d4658e7a83",
+        "set": "Wilds of Eldraine",
+        "image": "https://api.scryfall.com/cards/d0a801ba-ebf7-4b9e-98c2-db50448845b7?format=image",
+        "stock": 1
+      }
+    ]
+  }
+]
